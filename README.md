@@ -3,9 +3,7 @@
   🚀 Cybersecurity & AI Enthusiast | 💻 Ethical Hacker | 🌐 Cloud & Web Developer | 🎨 Creative Tech Explorer
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer;AI+and+ML+Learner;Web+and+IoT+Developer;Ethical+Hacker;Creative+Mind+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+
 
 ---
 
