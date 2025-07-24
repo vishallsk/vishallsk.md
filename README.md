@@ -3,7 +3,9 @@
   🚀 Cybersecurity & AI Enthusiast | 💻 Ethical Hacker | 🌐 Cloud & Web Developer | 🎨 Creative Tech Explorer
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer;AI+and+ML+Learner;Web+and+IoT+Developer;Ethical+Hacker;Creative+Mind+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -14,16 +16,6 @@
 - 🔍 Exploring **Web Security, Digital Forensics & Intrusion Detection Systems**
 - 🎨 Loves building **interactive UI/UX** and designing **creative 3D elements**
 - 💡 Learning never stops – from **bug bounties to AI-driven security models**
-
----
-
-### ⚡ Fun Fact
-
-> *“Hack smart. Code hard. Design with purpose.”*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
 
 ---
 
